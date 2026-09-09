@@ -1,0 +1,2 @@
+# CSCI414Group06Lab02
+Repo for CSCI414 Group06 Lab02
